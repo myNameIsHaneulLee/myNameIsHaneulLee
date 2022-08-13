@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 style="color:blue;"> Hi there 👋 I'm Haneul Lee ✨ </h1>
 
 <!--
 **myNameIsHaneulLee/myNameIsHaneulLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
